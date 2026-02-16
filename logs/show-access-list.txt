@@ -1,0 +1,5 @@
+Extended IP access list 100
+    deny ip 192.168.10.0 0.0.0.255 192.168.20.0 0.0.0.255 (12 matches)
+    deny ip 192.168.20.0 0.0.0.255 192.168.10.0 0.0.0.255 (9 matches)
+    deny ip 192.168.40.0 0.0.0.255 any (22 matches)
+    permit ip any any (48 matches)

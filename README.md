@@ -49,9 +49,16 @@ Security Requirements:
 
 ---
 
-## 🗺 Network Diagram
+---
 
-![Network Diagram](screenshots/network_diagram.png)
+## 🖧 Enterprise Network Segmentation Diagram
+
+<p align="center">
+  <img src="./Screenshots/NetworkDiagram.png" width="550"/>
+</p>
+
+---
+
 
 ---
 
@@ -100,6 +107,4 @@ Blocked:
 Screenshots available in `/screenshots`
 
 ---
-
-## 📂 Repository Structure
 

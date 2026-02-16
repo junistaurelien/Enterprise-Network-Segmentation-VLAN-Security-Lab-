@@ -1,1 +1,7 @@
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+10   HR                               active    Fa0/1
+20   FINANCE                          active    Fa0/2
+30   IT                               active    Fa0/3
+40   GUEST                            active    Fa0/4
 

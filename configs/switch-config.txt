@@ -1,0 +1,35 @@
+hostname S1
+
+vlan 10
+ name HR
+
+vlan 20
+ name FINANCE
+
+vlan 30
+ name IT
+
+vlan 40
+ name GUEST
+
+interface fastEthernet0/1
+ switchport mode access
+ switchport access vlan 10
+
+interface fastEthernet0/2
+ switchport mode access
+ switchport access vlan 20
+
+interface fastEthernet0/3
+ switchport mode access
+ switchport access vlan 30
+
+interface fastEthernet0/4
+ switchport mode access
+ switchport access vlan 40
+
+interface fastEthernet0/24
+ switchport mode trunk
+
+end
+write memory

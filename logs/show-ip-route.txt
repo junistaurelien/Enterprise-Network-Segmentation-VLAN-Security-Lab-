@@ -1,0 +1,6 @@
+Gateway of last resort is not set
+
+C 192.168.10.0/24 is directly connected, Gig0/0.10
+C 192.168.20.0/24 is directly connected, Gig0/0.20
+C 192.168.30.0/24 is directly connected, Gig0/0.30
+C 192.168.40.0/24 is directly connected, Gig0/0.40
